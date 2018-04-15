@@ -1,6 +1,6 @@
 NAME=tmux
 VERSION=2.6
-REVISION=2
+REVISION=1
 SRC=https://github.com/tmux/tmux/releases/download/2.6/tmux-2.6.tar.gz
 SRCMD5=d541ff392249f94c4f3635793556f827
 BUILDDEPS=ncurses libevent
